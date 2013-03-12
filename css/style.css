@@ -1,0 +1,23 @@
+﻿body
+{
+}
+
+#timer {
+    background-color:lightslategray;
+    overflow:hidden;
+}
+
+.timer_event {
+    font-size:large;
+
+    color:cornsilk;
+    float:left;
+    padding: 10px;
+}
+
+.timer_time {
+    padding:10px;
+    font-size:x-large;
+
+    float:right;
+}
